@@ -23,13 +23,14 @@
 2.History of JAVASCRIPT<br> 
 3.Variables<br>
 4.Datatypes<br>
-5.Functions<br>
-6.Object<br>
-7.array<br>
+5.Operators<br>
+6.Functions<br>
+7.Object<br>
+8.array<br>
 
 ### 4.EXTRA SKILLS
-1.HTML
-2.CSS
+1.HTML<br>
+2.CSS<br>
 3.SQL(Strcutured Query Language)
 
 
