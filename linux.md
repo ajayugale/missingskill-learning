@@ -10,13 +10,6 @@
   desktop or laptop.<br> 
 * To put it simply - the operating system manages the communication between your software and your hardware.<br>
 * Without the operating system (often referred to as the “OS”), the software cannot function.
-
-#### Features of Linux
-
-* Open source - Linux source code is freely available to all.  
-* Secured  
-* Distributions  
-* Fast performance
 ---
 ## History
 * In late 1960's a team of developers of Bell Labs started a project to make a common software for all the computers and named it as 'Unix'.Unix was released in 1970's it was   simple and elegant, used 'C' language instead of assembly language and its code was recyclable. Also its source code was open source.
@@ -31,16 +24,16 @@
 
 ### 1. Linux is Secure and Private <br>
   Linux is more secure in comparison to other competing operating systems. Linux requires authorization from the root, or superuser, in the form of a password. Unless the       password is known and used, nothing will run – not even a virus! This provides an added benefit of eliminating the need for anti-virus software.
+
 ### 2.Linux is Free to Use and Update<br>
   Linux is not licensed and is free to download and use. Typical costs for Windows OS range from $55 to $450 dollars depending on the application. There are paid versions of   Linux, but these are typically much more affordable.<br>
-  With Linux, you benefit from the ability to choose updates, you can have Linux “keep your system safe” and alert you to updates, which you can choose to implement or you     can select automatic Linux updates. Linux updates, in most cases, are smaller greatly benefiting users who have slower internet connectivity.
+
 ### 3.Linux is Easy to Install
-Linux is easily installed from the web without any prerequisites as it can run on any hardware. Linux, except in some special circumstances, does not require drivers to be installed for monitors, network cards, etc.<br>
-Printing from Linux is simple and just as with operating system lowered requirements, older printers can be used easily.
+Linux is easily installed from the web without any prerequisites as it can run on any hardware.
 
 ### 4. Linux is Reliable
 Other operating systems, such as Windows, often require a reboot after installing or uninstalling software and updates – not so with Linux! Linux doesn’t freeze or lock up systems (unless there is a hardware fault).<br>
-Some Linux systems have run for more than five years without a hiccup.
+
 
 ---
 ##  Various Linux Distribution
